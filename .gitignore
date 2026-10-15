@@ -1,0 +1,11 @@
+# Секреты — никогда не коммитить
+StudyIOS/Secrets.swift
+
+# Xcode
+xcuserdata/
+*.xcuserstate
+DerivedData/
+build/
+
+# macOS
+.DS_Store
